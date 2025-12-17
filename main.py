@@ -68,6 +68,7 @@ if response.candidates[0].content.parts[0].function_call:
     result = sum_numbers(**function_call.args)
     print(f"Function result: {result}")
 
+    # Send the function result back to the model for final response
     final_response = client.models.generate_content(
         model="gemini-2.5-flash",
         contents=[
