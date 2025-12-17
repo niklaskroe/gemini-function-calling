@@ -6,6 +6,7 @@ This project demonstrates how to use the Google Gemini API (specifically the `ge
 
 * Python 3.8 or higher
 * A Google Cloud/AI Studio account with access to the Gemini API.
+* [SDK Documentation](https://github.com/googleapis/python-genai)
 
 ## Installation
 
