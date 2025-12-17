@@ -1,2 +1,13 @@
 /.venv
 .env
+./.idea
+/.idea/.gitignore
+/.idea/copilot.data.migration.agent.xml
+/.idea/copilot.data.migration.ask2agent.xml
+/.idea/gemini-function-calling.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/rGraphicsSettings.xml
+/.idea/rSettings.xml
+/.idea/vcs.xml
